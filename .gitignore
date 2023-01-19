@@ -24,6 +24,6 @@ hs_err_pid*
 
 .mvn
 .idea
-.target
+target
 mvnw
 mvnw.cmd
