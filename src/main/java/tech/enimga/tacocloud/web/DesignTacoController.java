@@ -1,9 +1,12 @@
-package tech.enimga.tacocloud;
+package tech.enimga.tacocloud.web;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
+import tech.enimga.tacocloud.model.Ingredient;
+import tech.enimga.tacocloud.model.Taco;
+import tech.enimga.tacocloud.model.TacoOrder;
 
 import java.util.Arrays;
 import java.util.List;

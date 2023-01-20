@@ -1,4 +1,4 @@
-package tech.enimga.tacocloud;
+package tech.enimga.tacocloud.web;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package tech.enimga.tacocloud;
+package tech.enimga.tacocloud.model;
 
 import lombok.Data;
 

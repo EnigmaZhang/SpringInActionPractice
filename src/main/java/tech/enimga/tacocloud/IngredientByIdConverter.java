@@ -3,6 +3,7 @@ package tech.enimga.tacocloud;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
+import tech.enimga.tacocloud.model.Ingredient;
 
 import java.util.HashMap;
 import java.util.Map;
